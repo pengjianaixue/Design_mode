@@ -24,12 +24,24 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Observerif.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Subjectif.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataRecvier.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSender.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Design_mode.cpp">
+    <ClCompile Include="unittest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
